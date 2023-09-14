@@ -40,16 +40,7 @@
                                  ShowDataLabels="True"
                                  EnableTooltip="True"
                                  CornerRadius="5"
-                                 Fill="#0abd16"
-                                 />
-        <!--<chart:ColumnSeries ItemsSource="{Binding Data}"
-                                 XBindingPath="Day"
-                            YBindingPath="High"
-                             ShowDataLabels="True"
- EnableTooltip="True"
-                            TooltipTemplate="{StaticResource tooltip}"
-                            />-->
-
+                                 Fill="#512BD4" />
 
     </chart:SfCartesianChart>
 
