@@ -1,4 +1,5 @@
 # How-to-localize-the-labels-in-.NET-MAUI-Charts-SfCartesianChart
+How-to-localize-the-labels-in-.NET-MAUI-Charts-SfCartesianChart
 This sample demonstrates how to localize the labels in the chart.Localization is the process of translating the application resources into different language for the specific cultures. The [SfCartesianChart](https://help.syncfusion.com/cr/maui/Syncfusion.Maui.Charts.SfCartesianChart.html?tabs=tabid-1%2Ctabid-3%2Ctabid-6%2Ctabid-8%2Ctabid-10%2Ctabid-12%2Ctabid-25%2Ctabid-27%2Ctabid-29%2Ctabid-23%2Ctabid-14%2Ctabid-37%2Ctabid-17%2Ctabid-19%2Ctabid-21) can be localized by adding resource file.
 
 
@@ -53,3 +54,8 @@ By adhering to these instructions, you will obtain the output as specified below
 **Conclusion**
 
 I hope you enjoyed learning about how to localize the label in the .NET MAUI Chart (SfCartesianChart).
+
+This sample demonstrates how to localize the labels in the chart.Localization is the process of translating the application resources into different language for the specific cultures. The SfCartesianChart can be localized by adding resource file.
+
+![image](https://github.com/SyncfusionExamples/How-to-localize-the-labels-in-.NET-MAUI-Charts-SfCartesianChart/assets/113962276/f874e2dd-e943-4bca-b803-54a61348538f)
+
