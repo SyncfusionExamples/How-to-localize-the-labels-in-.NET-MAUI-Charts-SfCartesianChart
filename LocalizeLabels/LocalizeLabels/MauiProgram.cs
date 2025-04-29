@@ -1,6 +1,5 @@
 ﻿using Microsoft.Extensions.Logging;
 using Syncfusion.Maui.Core.Hosting;
-
 namespace LocalizeLabels
 {
     public static class MauiProgram
@@ -18,7 +17,7 @@ namespace LocalizeLabels
                 });
 
 #if DEBUG
-		builder.Logging.AddDebug();
+    		builder.Logging.AddDebug();
 #endif
 
             return builder.Build();

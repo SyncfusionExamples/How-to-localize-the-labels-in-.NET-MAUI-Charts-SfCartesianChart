@@ -21,4 +21,5 @@ namespace LocalizeLabels.WinUI
 
         protected override MauiApp CreateMauiApp() => MauiProgram.CreateMauiApp();
     }
+
 }
